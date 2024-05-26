@@ -4,6 +4,7 @@
     "vitest-globals/env": true
   },
   "rules": {
-    "no-useless-constructor": "off"
+    "no-useless-constructor": "off",
+    "@typescript-eslint/ban-types": "off"
   }
 }
